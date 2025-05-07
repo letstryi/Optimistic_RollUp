@@ -1,8 +1,0 @@
-[package]
-name = "minimal_evm"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]
-primitive-types = "0.12"
-num-bigint = "0.4"

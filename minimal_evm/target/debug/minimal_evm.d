@@ -1,1 +1,0 @@
-/home/userkali/Rustproject/Optimistic_RollUp/minimal_evm/target/debug/minimal_evm: /home/userkali/Rustproject/Optimistic_RollUp/minimal_evm/src/evm_structur.rs /home/userkali/Rustproject/Optimistic_RollUp/minimal_evm/src/main.rs /home/userkali/Rustproject/Optimistic_RollUp/minimal_evm/src/opcodes.rs
